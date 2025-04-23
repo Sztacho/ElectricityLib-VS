@@ -1,6 +1,7 @@
 # ⚡ ElectricityLib - Power System Core for Vintage Story
 
 ![ElectricityLib](https://github.com/Sztacho/ElectricityLib-VS/blob/master/modicon.png)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 **ElectricityLib** is an advanced library mod for [Vintage Story](https://www.vintagestory.at/), providing a flexible and efficient electricity system with support for:
 
@@ -175,10 +176,9 @@ You can build your own network diagnostics using the helper methods.
 
 ---
 
-## 📜 License
+## 🧩 Contribution & License
 
-MIT License.  
-Feel free to use, modify, and contribute!
+MIT License. Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ---
 
