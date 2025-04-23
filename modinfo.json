@@ -1,0 +1,10 @@
+{
+    "type": "code",
+    "modid": "electricitylib",
+    "name": "Electricity Library",
+    "version": "1.0.0",
+    "authors": ["StachoPL"],
+    "contributors": ["StachoPL"],
+    "description": "Core electrical system library with AC/DC support, resistance, overload logic and network propagation for Vintage Story.",
+    "website": "https://yourwebsite.or.github.io"
+}
