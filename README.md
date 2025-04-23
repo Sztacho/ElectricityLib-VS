@@ -1,6 +1,6 @@
 # ⚡ ElectricityLib - Power System Core for Vintage Story
 
-![ElectricityLib](https://yourimageurl.com/logo.png)
+![ElectricityLib](https://github.com/Sztacho/ElectricityLib-VS/blob/master/modicon.png)
 
 **ElectricityLib** is an advanced library mod for [Vintage Story](https://www.vintagestory.at/), providing a flexible and efficient electricity system with support for:
 
